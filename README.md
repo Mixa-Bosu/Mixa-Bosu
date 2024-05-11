@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gappy-Bosu
+- 👋 Hi, I’m @Mixa-Bosu
 - 👀 I’m interested in Game Development, 3D Modelling, and other nerd stuff
 - 🌱 I’m currently learning GLua, GDScript and how to take breaks
 
